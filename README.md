@@ -6,7 +6,7 @@ It is divided into two main folders:
 ---
 
 ## 1. `Wipro_Java`
-This folder contains all Java-related training materials and code, covering:
+This folder contains Java code implementations for the following topics:
 
 - **Java Fundamentals**
 - **OOP Concepts / Inheritance**
@@ -20,7 +20,7 @@ This folder contains all Java-related training materials and code, covering:
 ---
 
 ## 2. `Wipro_Testing`
-This folder contains materials for **Software Testing** training, covering:
+This folder contains:
 
 - **Testing Fundamentals**
 - **Manual Testing**
