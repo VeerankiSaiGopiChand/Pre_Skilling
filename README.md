@@ -23,6 +23,8 @@ This folder contains all Java-related training materials and code, covering:
 This folder contains materials for **Software Testing** training, covering:
 
 - **Testing Fundamentals**
+- **Manual Testing**
+- **Test cases** created for the website [360 Home Decor](https://360homedecor.uk/)
 
 ---
 
